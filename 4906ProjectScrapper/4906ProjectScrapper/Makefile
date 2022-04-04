@@ -5,9 +5,9 @@
 #################################################################################
 
 PROJECT_DIR := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
-BUCKET = n
-PROFILE = n
-PROJECT_NAME = SYSC-4906
+BUCKET = [OPTIONAL] your-bucket-for-syncing-data (do not include 's3://')
+PROFILE = default
+PROJECT_NAME = 4906ProjectScrapper
 PYTHON_INTERPRETER = python3
 
 ifeq (,$(shell which conda))

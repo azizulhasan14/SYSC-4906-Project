@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='Using GTFS data or similar for data science',
-    author='StatsCanTranTeam',
-    license='',
+    description='A short description of the project.',
+    author='michaelnwokobia',
+    license='MIT',
 )

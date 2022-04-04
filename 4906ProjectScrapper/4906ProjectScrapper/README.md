@@ -1,7 +1,7 @@
-StatCanTran
+4906Project
 ==============================
 
-Using GTFS data or similar for data science
+A short description of the project.
 
 Project Organization
 ------------

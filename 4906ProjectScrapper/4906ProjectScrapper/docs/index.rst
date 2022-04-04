@@ -1,9 +1,9 @@
-.. StatCanTran documentation master file, created by
+.. 4906Project documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-StatCanTran documentation!
+4906Project documentation!
 ==============================================
 
 Contents:
